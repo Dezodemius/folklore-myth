@@ -1,0 +1,17 @@
+{
+  "name": "folklore-myth",
+  "description": "Колодец народных сюжетов: фольклор, мифы и священные тексты (славянская, восточноазиатская, индийская, библейская, греческая, скандинавская традиции).",
+  "author": {
+    "name": "Egor Gladkov (Dezodemius)",
+    "url": "https://github.com/Dezodemius"
+  },
+  "homepage": "https://github.com/Dezodemius/folklore-myth",
+  "repository": "https://github.com/Dezodemius/folklore-myth",
+  "license": "Apache-2.0",
+  "keywords": [
+    "dnd",
+    "dnd5e",
+    "ttrpg",
+    "agent-skill"
+  ]
+}

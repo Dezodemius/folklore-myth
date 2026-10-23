@@ -1,0 +1,14 @@
+{
+  "name": "folklore-myth",
+  "owner": {
+    "name": "Egor Gladkov (Dezodemius)",
+    "url": "https://github.com/Dezodemius"
+  },
+  "plugins": [
+    {
+      "name": "folklore-myth",
+      "source": "./",
+      "description": "Колодец народных сюжетов: фольклор, мифы и священные тексты (славянская, восточноазиатская, индийская, библейская, греческая, скандинавская традиции)."
+    }
+  ]
+}
